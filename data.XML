@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<item>
+    <test>
+        <searchColumn>1</searchColumn>
+        <searchText>Alfreds Futterkiste</searchText>
+        <returnColumnText>3</returnColumnText>
+        <expectedText>Germany</expectedText>
+    </test>
+    <test>
+        <searchColumn>2</searchColumn>
+        <searchText>Roland Mendel</searchText>
+        <returnColumnText>1</returnColumnText>
+        <expectedText>Ernst Handel</expectedText>
+    </test>
+
+</item>
